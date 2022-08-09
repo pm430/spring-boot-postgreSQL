@@ -1,4 +1,4 @@
-package com.example.springbootpostgresql;
+package com.pm430.springbootpostgresql;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.ApplicationArguments;
